@@ -1,2 +1,2 @@
 # skillfactory-DOM
-skillfactory-DOM
+Перевыполнил задание с светофором
