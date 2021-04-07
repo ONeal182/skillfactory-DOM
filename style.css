@@ -1,0 +1,17 @@
+p{
+    cursor: pointer;
+    text-transform: uppercase;
+    color:black;
+    font-size: 14px;
+
+}
+a{
+    text-transform: uppercase;
+    color:black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+li{
+    margin-bottom: 10px;
+}
