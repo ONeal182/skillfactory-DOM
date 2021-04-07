@@ -16,8 +16,8 @@ li{
     margin-bottom: 10px;
 }
 button{
-    background-color: grey;
-    border: none;
+    background-color: white;
+    border: 1px solid rgb(70, 62, 62);
     padding: 5px 10px;
     font-size: 14px;
     cursor: pointer;
